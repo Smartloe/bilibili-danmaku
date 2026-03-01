@@ -199,4 +199,4 @@ A: 可以，建议外层写批处理脚本循环调用 `fetch_danmaku.py + analy
 
 ## License
 
-建议使用 MIT（可按你的仓库策略调整）。
+使用 MIT
