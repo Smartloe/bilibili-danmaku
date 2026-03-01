@@ -6,6 +6,21 @@ It supports both `b23.tv` short links and regular `bilibili.com/video/BV...` lin
 
 ---
 
+## Demo Results
+
+### Input / Output Diagram
+
+![Input Output Diagram](bilibili-danmaku/img/输入输出图.jpg)
+
+### Word Cloud Example
+
+![Word Cloud](bilibili-danmaku/img/词云图.jpg)
+
+> The images above are from the project's `img/` folder for ClawHub / GitHub preview.
+> Runtime outputs are generated under the `output/` directory.
+
+---
+
 ## Features
 
 - ✅ **Danmaku Fetching**: auto resolve `BVID -> CID`, download danmaku XML, export CSV/JSON/TXT
