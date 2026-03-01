@@ -9,11 +9,11 @@
 
 ### 输入 / 输出示意图
 
-![输入输出图](img/输入输出图.jpg)
+<img src="img/输入输出图.jpg" width="50%" alt="输入输出图">
 
 ### 词云图示例
 
-![词云图](img/词云图.jpg)
+<img src="img/词云图.jpg" width="50%" alt="词云图">
 
 > 上述图片来自本项目 `img/` 目录，用于 ClawHub / GitHub 页面展示。
 > 实际运行时，词云与报告会输出到 `output/` 目录。
